@@ -48,11 +48,10 @@ Currently at **[Zego](https://www.zego.com/)**, leading the data platform end-to
 | [**wollama**](https://github.com/antoniocali/wollama) | GitHub Pages site helping users pick the right Ollama model for their machine |
 | [**terafrom**](https://github.com/antoniocali/terafrom) | Prettier output for `terraform plan` / `terraform apply` |
 
-## GitHub Stats
+## GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniocali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Antonio's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniocali&theme=tokyonight&hide_border=true" alt="Antonio's GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=antoniocali&theme=tokyonight&hide_border=true" alt="Antonio's GitHub streak" height="165"/>
 </p>
 
 ---
