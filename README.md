@@ -45,8 +45,6 @@ Currently at **[Zego](https://www.zego.com/)**, leading the data platform end-to
 |---|---|
 | [**oat-latte**](https://github.com/antoniocali/oat-latte) | Component-based TUI framework for Go — two-pass layout, composable widgets, focus management, themes, modal dialogs |
 | [**nnn**](https://github.com/antoniocali/nnn) | A beautiful TUI note manager in Go |
-| [**wollama**](https://github.com/antoniocali/wollama) | GitHub Pages site helping users pick the right Ollama model for their machine |
-| [**terafrom**](https://github.com/antoniocali/terafrom) | Prettier output for `terraform plan` / `terraform apply` |
 
 ## GitHub Streak
 
