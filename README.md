@@ -49,4 +49,4 @@ Currently at **[Zego](https://www.zego.com/)**, leading the data platform end-to
 
 ---
 
-*Italian, living in London. Rubik's Cube addict, gym rat, and a firm believer in fruit and vegetables.* 🥦🧩
+*Italian, living in London. Rubik's Cube addict, gym rat, and a firm believer in fruit and vegetables.* 🥦🧩🏳️‍🌈
