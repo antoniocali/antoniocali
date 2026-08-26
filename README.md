@@ -46,12 +46,6 @@ Currently at **[Zego](https://www.zego.com/)**, leading the data platform end-to
 | [**oat-latte**](https://github.com/antoniocali/oat-latte) | Component-based TUI framework for Go — two-pass layout, composable widgets, focus management, themes, modal dialogs |
 | [**nnn**](https://github.com/antoniocali/nnn) | A beautiful TUI note manager in Go |
 
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=antoniocali&theme=tokyonight&hide_border=true" alt="Antonio's GitHub streak" height="165"/>
-</p>
-
 ---
 
 *Italian, living in London. Rubik's Cube addict, gym rat, and a firm believer in fruit and vegetables.* 🥦🧩
