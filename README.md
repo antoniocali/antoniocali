@@ -7,7 +7,7 @@ Currently at **[Zego](https://www.zego.com/)**, leading the data platform end-to
 - 🔭 Focused on real-time data infrastructure: Kafka, Flink, Iceberg, Snowflake
 - 📝 I write at [nnn.rocks](http://www.nnn.rocks)
 - 💬 Ask me about streaming architectures, dbt, or Rubik's Cubes
-- 🧾 Portfolio / CV: [antoniocali.github.io](https://antoniocali.github.io/)
+- 🧾 Portfolio / CV: [calific.io](https://calific.io)
 - 📫 antoniodavidecali@gmail.com · [LinkedIn](https://linkedin.com/in/antoniodavidecali)
 
 ## Tech Stack
