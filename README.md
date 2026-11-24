@@ -2,7 +2,7 @@
 
 **Staff Data Engineer** in London, building streaming & distributed data platforms. 10+ years across fintech, retail, insurance, and consumer tech.
 
-Currently at **[Zego](https://www.zego.com/)**, leading the data platform end-to-end — Iceberg/Snowflake infrastructure and Flink-based streaming. Previously led Streaming Ingestion at **Just Eat Takeaway.com** (speaker at Flink Forward 2025), scaled Kafka/Flink/Iceberg at **Dojo**, and built data platforms at **Raft AI**, **LEGO**, and **IKEA**.
+Currently at **[Preply](https://preply.com/)**. Previously led the data platform end-to-end at **Zego** (Iceberg/Snowflake infrastructure and Flink-based streaming), led Streaming Ingestion at **Just Eat Takeaway.com** (speaker at Flink Forward 2025), scaled Kafka/Flink/Iceberg at **Dojo**, and built data platforms at **Raft AI**, **LEGO**, and **IKEA**.
 
 - 🔭 Focused on real-time data infrastructure: Kafka, Flink, Iceberg, Snowflake
 - 📝 I write at [nnn.rocks](http://www.nnn.rocks)
@@ -44,6 +44,7 @@ Currently at **[Zego](https://www.zego.com/)**, leading the data platform end-to
 
 | Project | Description |
 |---|---|
+| [**polaris-k8s**](https://github.com/antoniocali/polaris-k8s) | Kubernetes operator that manages Apache Polaris (REST Iceberg catalog) resources as CRDs |
 | [**oat-latte**](https://github.com/antoniocali/oat-latte) | Component-based TUI framework for Go — two-pass layout, composable widgets, focus management, themes, modal dialogs |
 | [**nnn**](https://github.com/antoniocali/nnn) | A beautiful TUI note manager in Go |
 
